@@ -10,11 +10,14 @@ actual job = Edenred_Brasil;
 currently = Estudante_Java;
 ~~~~
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-osouza&theme=radical)
-<a href = "https://github.com/git-osouza/"></a>
 
+<a href = "https://github.com/git-osouza/"></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-osouza&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=git-osouza&&show_icons=true&theme=dark"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=git-osouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+
 
 
 
